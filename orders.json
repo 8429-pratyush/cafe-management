@@ -1,0 +1,35 @@
+[
+    {
+        "order_id": 1,
+        "date": "30-09-2026 12:22",
+        "customer": "Guest",
+        "items": [
+            {
+                "name": "Coffee",
+                "price": 60,
+                "qty": 2,
+                "amount": 120
+            }
+        ],
+        "subtotal": 120,
+        "discount": 0.0,
+        "gst": 6.0,
+        "total": 126.0
+    },
+    {
+        "order_id": 2,
+        "date": "30-09-2026 12:36",
+        "customer": "Guest",
+        "items": [
+            {
+                "name": "Coffee",
+                "price": 60,
+                "qty": 2,
+                "amount": 120
+            }
+        ],
+        "subtotal": 120,
+        "gst": 6.0,
+        "total": 126.0
+    }
+]
